@@ -1,0 +1,5 @@
+Qué hace esta ruta:
+Básicamente, sirve para recibir información de forma más privada (a diferencia de las rutas normales donde todo se ve en la URL). Agarra el dato que viene guardado en el cuerpo de la petición y luego devuelve una respuesta confirmando que todo se recibió con éxito.
+
+Para qué serviría en una aplicación comunitaria:
+Es la herramienta ideal para armar un buzón de reportes o alertas ciudadanas. Por ejemplo, si los jóvenes de una red ambiental necesitan reportar alguna problemática que afecte los procesos de resiliencia biocultural en su territorio, usarían una ruta como esta. Como la información viaja "por debajo de cuerda" y no queda expuesta en la barra del navegador, es perfecto para recibir denuncias de manera segura y proteger los datos de quienes participan.

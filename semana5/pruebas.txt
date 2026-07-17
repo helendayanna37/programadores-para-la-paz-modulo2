@@ -1,0 +1,5 @@
+http://localhost:3000: Te va a mostrar el texto "Servidor activo". Es la ruta principal (la raíz) y simplemente sirve para confirmar que tu servidor está prendido y funcionando sin problemas.
+
+http://localhost:3000/saludo: Te va a mostrar en pantalla el mensaje "Hola comunidad".
+
+http://localhost:3000/mensaje/Helen Mosquera: Te va a mostrar el texto "Hola Helen Mosquera". Aquí lo chévere es que el servidor agarra exactamente la palabra que pusiste al final de la URL y la usa para armarte un saludo a la medida.
